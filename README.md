@@ -1,6 +1,6 @@
 # ANALYZING THE CHALLENGES ENCOUNTERED BY INTERNATIONAL STUDENTS VIA SOCIAL MEDIA ENGAGEMENT
 
-INTRODUCTION
+**INTRODUCTION**
 
 Nowadays, social media platforms have transformed the way international students engage in academic experiences, providing a unique space for them to connect with prefers from their home countries and around the world. These platforms offer international students a virtual community where they can share their experiences, seek advice, and build meaningful connections. These platforms have become invaluable sources of support and information for international students, who often face unique challenges when studying in foreign countries. Sentiment analysis, topic modelling, and network analysis are powerful tools that can be used to gain a deeper understanding of the social networks of international students on social media. Sentiment analysis can be used to identify the sentiment of the data, such as whether it is positive, negative, or neutral. Topic modelling can be used to identify the main topics that are being discussed in the data. Network analysis can be used to study the relationships between individuals or groups in the data. By combining these three methods, we can gain a more comprehensive understanding of the social networks of international students, including their communication patterns, interests, concerns, and the role that social media plays in their lives.
 
@@ -20,7 +20,8 @@ The fourth objective looks at how sentiment, subjects, and network structures in
 **DATA COLLECTION**
 
 Data collection plays a vital role in the whole process. The data collected for each platform is as follows:
-Reddit
+
+Reddit:
 The process begins with data collection from the "internationalStudents" subreddit on Reddit. A Python script utilizing the Python Reddit API Wrapper (PRAW) is employed for this purpose. Around 1000 submissions extracted with attributes.
 
 YouTube:
